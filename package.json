@@ -1,0 +1,27 @@
+{
+  "name": "domainr",
+  "version": "0.0.1",
+  "description": "",
+  "keywords": [
+    "domain",
+    "domairn",
+    "domai.nr",
+    "domain search",
+    "search"
+  ],
+  "author": "cfddream <cfddream@gmail.com> (http://kissdry.com/)",
+  "license": "BSD",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cfddream/domainr"
+  },
+  "bin": "./bin/domainr.js",
+  "scripts": {
+  },
+  "dependencies": {
+    "nopt": "~1.0.10",
+    "ansi": "~0.1.2"
+  },
+  "devDependencies": {
+  }
+}
