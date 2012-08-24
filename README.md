@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/cfddream/domainr.png)](http://travis-ci.org/cfddream/domainr)
 domainr
 ======
 
