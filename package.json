@@ -1,11 +1,12 @@
 {
   "name": "domainr",
   "version": "0.0.2",
-  "description": "A CLI for Domai.nr",
+  "description": "A CLI for Domainr",
   "keywords": [
     "domain",
     "domairn",
     "domai.nr",
+    "domainr",
     "domain search",
     "search"
   ],

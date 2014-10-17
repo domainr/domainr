@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-;process.title = 'Domai.nr';
+;process.title = 'Domainr';
 
 var nopt = require('nopt');
 
